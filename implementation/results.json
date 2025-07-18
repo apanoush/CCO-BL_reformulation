@@ -1,0 +1,46 @@
+{
+    "CppPaperProblem1": {
+        "x": -4.4423034127989895,
+        "f_value": -1.0317079914127354,
+        "empirical_coverage": 0.940648
+    },
+    "Problem": {
+        "x": 0.36870142153247376,
+        "f_value": 2.661135052110172,
+        "empirical_coverage": 0.956571
+    },
+    "TacoPaperProblem": {
+        "x": [
+            0.6591528045956668,
+            1.2628018132228798
+        ],
+        "f_value": 10.886779557418313,
+        "empirical_coverage": 0.00775
+    },
+    "TacoPaperProblem2": {
+        "x": [
+            3.5090681124963057,
+            3.5090681124963057
+        ],
+        "f_value": -7.020985406091764,
+        "empirical_coverage": 0.8398915
+    },
+    "TacoPaperProblem1": {
+        "x": [
+            1.1253937670850291,
+            1.697658100424651
+        ],
+        "f_value": 3.5448888832342904,
+        "empirical_coverage": 0.032
+    },
+    "CppPaperProblem2": {
+        "x": [
+            [
+                1.0000009477153409,
+                1.0000009477153409
+            ]
+        ],
+        "f_value": 2.00000379086316,
+        "empirical_coverage": 0.08
+    }
+}
